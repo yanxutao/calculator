@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 
 计算器类 
 
